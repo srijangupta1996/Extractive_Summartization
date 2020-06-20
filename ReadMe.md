@@ -12,7 +12,7 @@ First of all I would like to thank Prof. Saptarshi Ghosh and Prof. Pawan Goyal, 
 
 I seek to express my deep and sincere gratitude to Ms. Paheli Bhattacharya, who took time to hear, guide and always available over a phone call or email, whenever we ran into any trouble or question about the project. She consistently steered us in the right direction throughout the project journey.
 
-Last but not least I express deepest gratitude to our team mates, Kowshik Moyya, Anadi Vashisht, and Suman Basak, who supported each other during difficult times of the project.
+Last but not least I express deepest gratitude to my team mates, Kowshik Moyya, Anadi Vashisht, and Suman Basak, who supported each other during difficult times of the project.
 
 # Problem Statement
 
