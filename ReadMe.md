@@ -20,6 +20,6 @@ With this project, we intend to develop a mechanism for summarization of legal d
 
 Let R denote the statements of the full text section, our goal is to build a service, V, that is able to select some statements S, from R, that can serve as the summary statements, G.
 
-V(R)→ S
+V(R) → S
 
 We treat this task of sentence selection as a classification problem. In addition to considering some relevant features based on knowledge and observations of linguistic and legal perspectives, we also employ different types of word vectors. We realized the service V with classifiers that were designed based the concepts of logistic regression, gradient boosting, neural networks, and some other methods.
